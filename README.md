@@ -1,2 +1,2 @@
-# programacion_full_stack
+# programacion full stack
 Ejercicios Prácticos de programación 
