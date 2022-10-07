@@ -3,7 +3,8 @@ Ejercicios Prácticos de programación
 
 ## Ejercicio tema 3
 
-- Este primer ejercicio se encuentra en la carpeta Ejercicio1 / src / ejercicio1
+- Este primer ejercicio se encuentra en la carpeta: 
+  - Ejercicio1 / src / ejercicio1 / Ejercicio1.java
 
 ### Primera parte:
 
@@ -21,6 +22,9 @@ Ejercicios Prácticos de programación
 ---
 
 ## Ejercicio tema 4
+
+- La ruta para la solución de este ejercicio: 
+  - SentenciasDeControl / src / sentenciasdecontrol / SentenciasDeControl.java
 
 - En este ejercicio practicarás las estructuras de control, para ello deberás crear:
 
