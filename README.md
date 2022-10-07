@@ -1,7 +1,7 @@
 # programacion full stack
 Ejercicios Prácticos de programación 
 
-## Ejercicio 1
+## Ejercicio tema 3
 
 - Este primer ejercicio se encuentra en la carpeta Ejercicio1 / src / ejercicio1
 
