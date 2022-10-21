@@ -77,5 +77,37 @@ Crea ahora un objeto de la clase Cliente que debe tener como propiedades la edad
 
 Una vez hecho esto, haz lo mismo con la clase Trabajador que herede de Persona, y con una variable salario que solo tenga la clase Trabajador.
 
+---
+---
 
+## Python
 
+### Ejercicio 1
+- La ruta para la solución de este ejercicio: 
+  - python / Ejercicio1.py
+
+Desde la consola de python almacena la cadena “Hola mundo!” en una variable y muéstrala.
+
+---
+
+### Ejercicio 2
+- La ruta para la solución de este ejercicio: 
+  - python / Ejercicio2.py
+
+Modifica la variable del anterior ejercicio en la consola de python y después muestrala por consola para ver la modificación de la variable.
+
+---
+
+### Ejercicio 3
+- La ruta para la solución de este ejercicio: 
+  - python / Ejercicio3.py
+
+Escribe un programa en la consola de python que pida al usuario su peso (en kg) y estatura (en metros), calcule el índice de masa corporal y lo almacene en una variable, e imprima por pantalla la frase Tu índice de masa corporal es donde es el índice de masa corporal calculado redondeado con dos decimales. 
+
+---
+
+### Ejercicio 4
+- La ruta para la solución de este ejercicio: 
+  - python / Ejercicio4.py
+
+Escribe un programa que sea capaz de mostrar los números del 1 al 100 en orden inverso.
