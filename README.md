@@ -111,3 +111,11 @@ Escribe un programa en la consola de python que pida al usuario su peso (en kg) 
   - python / Ejercicio4.py
 
 Escribe un programa que sea capaz de mostrar los números del 1 al 100 en orden inverso.
+
+---
+
+### Ejercicio 5
+- La ruta para la solución de este ejercicio: 
+  - python / Ejercicio5.py
+
+Escribe una función que pueda decirte si un año (número entero) es bisiesto o no.
