@@ -82,7 +82,7 @@ Una vez hecho esto, haz lo mismo con la clase Trabajador que herede de Persona, 
 
 ## Python
 
-### Ejercicio 1
+### Introduccion a python - Ejercicio 1
 - La ruta para la solución de este ejercicio: 
   - python / 1-Introduccion_a_python / Ejercicio1.py
 
@@ -90,7 +90,7 @@ Desde la consola de python almacena la cadena “Hola mundo!” en una variable 
 
 ---
 
-### Ejercicio 2
+### El interprete de python - Ejercicio 2
 - La ruta para la solución de este ejercicio: 
   - python / 2-El_interprete_de_python / Ejercicio2.py
 
@@ -98,7 +98,7 @@ Modifica la variable del anterior ejercicio en la consola de python y después m
 
 ---
 
-### Ejercicio 3
+### Tipos de objetos - Ejercicio 3
 - La ruta para la solución de este ejercicio: 
   - python / 3-Tipos_de_objetos / Ejercicio3.py
 
@@ -106,7 +106,7 @@ Escribe un programa en la consola de python que pida al usuario su peso (en kg) 
 
 ---
 
-### Ejercicio 4
+### Control de flujo - Ejercicio 4
 - La ruta para la solución de este ejercicio: 
   - python / 4-Control_de_flujo / Ejercicio4.py
 
@@ -114,8 +114,36 @@ Escribe un programa que sea capaz de mostrar los números del 1 al 100 en orden 
 
 ---
 
-### Ejercicio 5
+### Funciones - Ejercicio 5
 - La ruta para la solución de este ejercicio: 
   - python / 5-Funciones / Ejercicio5.py
 
 Escribe una función que pueda decirte si un año (número entero) es bisiesto o no.
+
+---
+
+### Clases y objetos - Ejercicio 1, Ejercicio 2
+- La ruta para la solución de este ejercicio: 
+  - python / 6-Clases_y_objetos / Ejercicio1.py
+  - python / 6-Clases_y_objetos / Ejercicio2.py
+
+
+#### Enunciado Ejercicio 1
+
+En este ejercicio vais a crear la clase Vehículo la cual tendrá los siguientes atributos:
+
+- Color
+- Ruedas
+- Puertas
+
+Por otro lado crearéis la clase Coche la cual heredará de Vehículo y tendrá los siguientes atributos:
+
+- Velocidad
+- Cilindrada
+
+Por último, tendrás que crear un objeto de la clase Coche y mostrarlo por consola.
+
+
+#### Enunciado Ejercicio 2
+
+En este segundo ejercicio, tendréis que crear un programa que tenga una clase llamada Alumno que tenga como atributos su nombre y su nota. Deberéis de definir los métodos para inicializar sus atributos, imprimirlos y mostrar un mensaje con el resultado de la nota y si ha aprobado o no.
