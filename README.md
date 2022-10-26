@@ -84,7 +84,7 @@ Una vez hecho esto, haz lo mismo con la clase Trabajador que herede de Persona, 
 
 ### Ejercicio 1
 - La ruta para la solución de este ejercicio: 
-  - python / Ejercicio1.py
+  - python / 1-Introduccion_a_python / Ejercicio1.py
 
 Desde la consola de python almacena la cadena “Hola mundo!” en una variable y muéstrala.
 
@@ -92,7 +92,7 @@ Desde la consola de python almacena la cadena “Hola mundo!” en una variable 
 
 ### Ejercicio 2
 - La ruta para la solución de este ejercicio: 
-  - python / Ejercicio2.py
+  - python / 2-El_interprete_de_python / Ejercicio2.py
 
 Modifica la variable del anterior ejercicio en la consola de python y después muestrala por consola para ver la modificación de la variable.
 
@@ -100,7 +100,7 @@ Modifica la variable del anterior ejercicio en la consola de python y después m
 
 ### Ejercicio 3
 - La ruta para la solución de este ejercicio: 
-  - python / Ejercicio3.py
+  - python / 3-Tipos_de_objetos / Ejercicio3.py
 
 Escribe un programa en la consola de python que pida al usuario su peso (en kg) y estatura (en metros), calcule el índice de masa corporal y lo almacene en una variable, e imprima por pantalla la frase Tu índice de masa corporal es donde es el índice de masa corporal calculado redondeado con dos decimales. 
 
@@ -108,7 +108,7 @@ Escribe un programa en la consola de python que pida al usuario su peso (en kg) 
 
 ### Ejercicio 4
 - La ruta para la solución de este ejercicio: 
-  - python / Ejercicio4.py
+  - python / 4-Control_de_flujo / Ejercicio4.py
 
 Escribe un programa que sea capaz de mostrar los números del 1 al 100 en orden inverso.
 
@@ -116,6 +116,6 @@ Escribe un programa que sea capaz de mostrar los números del 1 al 100 en orden 
 
 ### Ejercicio 5
 - La ruta para la solución de este ejercicio: 
-  - python / Ejercicio5.py
+  - python / 5-Funciones / Ejercicio5.py
 
 Escribe una función que pueda decirte si un año (número entero) es bisiesto o no.
