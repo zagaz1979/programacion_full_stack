@@ -147,3 +147,27 @@ Por último, tendrás que crear un objeto de la clase Coche y mostrarlo por cons
 #### Enunciado Ejercicio 2
 
 En este segundo ejercicio, tendréis que crear un programa que tenga una clase llamada Alumno que tenga como atributos su nombre y su nota. Deberéis de definir los métodos para inicializar sus atributos, imprimirlos y mostrar un mensaje con el resultado de la nota y si ha aprobado o no.
+
+---
+
+### Módulos - Ejercicio 1, Ejercicio 2
+- La ruta para la solución de este ejercicio: 
+  - python / 7-modulos / Ejercicio 1 / main.py
+  - python / 7-modulos / Ejercicio 2 / hora_de_ir_a_casa.py
+
+
+#### Enunciado Ejercicio 1
+
+En este ejercicio tendréis que crear un módulo que contenga las operaciones básicas de una calculadora: sumar, 
+restar, multiplicar y dividir.
+
+Este módulo lo importaréis a un archivo python y llamaréis a las funciones creadas. Los resultados tenéis que 
+mostrarlos por consola.
+
+
+#### Enunciado Ejercicio 2
+
+En este segundo ejercicio tendréis que crear un script que nos diga si es la hora de ir a casa. Tendréis que hacer uso del módulo time. Necesitaréis la fecha del sistema y poder comprobar la hora.
+
+En el caso de que sean más de las 7, se mostrará un mensaje y en caso contrario, haréis una operación para calcular el tiempo que queda de trabajo.
+
