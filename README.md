@@ -171,3 +171,21 @@ En este segundo ejercicio tendréis que crear un script que nos diga si es la ho
 
 En el caso de que sean más de las 7, se mostrará un mensaje y en caso contrario, haréis una operación para calcular el tiempo que queda de trabajo.
 
+---
+
+### Entrada y salida - Ejercicio 1, Ejercicio 2
+- La ruta para la solución de este ejercicio: 
+  - python / 8-Entrada_y_salida / Ejercicio1 / main.py
+  - python / 8-Entrada_y_salida / Ejercicio2 / cargar_archivo.py
+
+
+#### Enunciado Ejercicio 1
+
+En este ejercicio, tendréis que crear un archivo py donde creéis un archivo txt, lo abráis y escribáis dentro del archivo. Para ello, tendréis que acceder dos veces al archivo creado.
+
+
+#### Enunciado Ejercicio 2
+
+En este segundo ejercicio, tendréis que crear un archivo py y dentro crearéis una clase Vehículo, haréis un objeto de ella, lo guardaréis en un archivo y luego lo cargamos.
+
+
