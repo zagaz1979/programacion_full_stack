@@ -189,3 +189,19 @@ En este ejercicio, tendréis que crear un archivo py donde creéis un archivo tx
 En este segundo ejercicio, tendréis que crear un archivo py y dentro crearéis una clase Vehículo, haréis un objeto de ella, lo guardaréis en un archivo y luego lo cargamos.
 
 
+---
+
+### Bibliotecas y funcones Built-in - Ejercicio 1, Ejercicio 2
+- La ruta para la solución de este ejercicio: 
+  - python / 9-bibliotecas / Ejercicio1 / paises.py
+  - python / 9-bibliotecas / Ejercicio2 / numeros.py
+
+
+#### Enunciado Ejercicio 1
+
+Crea un script que le pida al usuario una lista de países (separados por comas). Éstos se deben almacenar en una lista. No debería haber países repetidos (haz uso de set). Finalmente, muestra por consola la lista de países ordenados alfabéticamente y separados por comas.
+
+
+#### Enunciado Ejercicio 2
+
+En este segundo ejercicio, tenéis que crear una aplicación que obtendrá los elementos impares de una lista pasada por parámetro con filter y realizará una suma de todos estos elementos obtenidos mediante reduce.
