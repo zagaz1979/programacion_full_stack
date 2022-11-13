@@ -1,0 +1,25 @@
+{% extends "base_generic.html" %}
+ 
+{% block content %}
+ 
+   <h1>Directores</h1>
+   <p>Aquí están los directores de las películas</p>
+ 
+    <table class="table table-dark table-hover">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Apellidos</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for director in directores %}
+                <tr>
+                    <td>{{ director.nombre }}</td>
+                    <td>{{ director.apellidos }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+ 
+{% endblock %}

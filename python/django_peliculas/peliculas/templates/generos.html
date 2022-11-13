@@ -1,0 +1,25 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+ 
+   <h1>Generos de las peliculas</h1>
+   <p>Aquí están los generos de las películas</p>
+ 
+    <table class="table table-dark table-hover">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Descripción</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for genero in generos %}
+                <tr>
+                    <td>{{ genero.nombre }}</td>
+                    <td>{{ genero.descripcion }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+ 
+{% endblock %}
