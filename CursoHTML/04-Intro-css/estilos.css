@@ -1,0 +1,40 @@
+/* Selector de etiqueta */
+h1{
+    color: red;
+}
+
+/* Estoy probando colores y fuentes */
+p{
+    color: blue;
+    font-size: 16pt;
+}
+
+/* Selectores de clase */
+#primera-noticia{
+    color: green;
+    font-size: 12pt;    
+}
+
+#segunda-noticia{
+    font-size: 14pt;
+}
+
+/* Selectores de clase */
+.encabezado{
+    font-size: 24pt;
+    text-transform: uppercase;
+}
+
+/* Selector universal */
+/*
+*{
+    color: yellow;
+}
+*/
+*.warning{
+    color: red;
+}
+
+.autor, .fecha, .ubicacion, #segunda-noticia{
+    text-decoration: underline;
+}
