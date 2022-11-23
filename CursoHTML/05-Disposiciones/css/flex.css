@@ -1,0 +1,51 @@
+.flex{
+    display: flex;
+
+    /*
+    Cambia el eje principal
+    por defecto es el 
+    row, row-reverse, column, column-reverse
+    si coloco column el eje principal seria el vertical
+    */
+    flex-direction: row;
+    
+    /* 
+    Posiciona con referente al eje principal horizontal 
+    start, center, end, space-around, space-between, space-evenly 
+    */
+    justify-content: space-around;
+    
+    /* Que se mantengan las medidas en lo posible */
+    /*flex-wrap: wrap;*/
+
+    /* 
+    Posiciona con referente al eje secundario vertical 
+    stretch, center, flex-start, flex-end
+    */
+
+    align-items: center;
+
+    background-color: yellow;
+    height: 300px;
+}
+
+.contenido-1{
+    background-color: white;
+    height: 200px;
+    width: 100px;
+    border: 1px solid blue;
+}
+
+.contenido-2{
+    background-color: white;
+    height: 200px;
+    width: 100px;
+    border: 1px solid blue;
+}
+
+.contenido-3{
+    background-color: white;
+    height: 200px;
+    width: 100px;
+    border: 1px solid blue;
+}
