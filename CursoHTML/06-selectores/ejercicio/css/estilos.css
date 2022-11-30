@@ -1,0 +1,27 @@
+.boton{
+    height: 30px;   
+}
+
+.boton span {
+    visibility: hidden;
+}
+
+.boton span::after {
+    content: '!Hecho¡';
+    visibility: visible;
+    position: relative;
+    left: -50px;
+}
+
+
+.boton::before{
+    content: 'Pasa por encima';
+    visibility: hidden;
+}
+
+
+.boton:hover{
+    visibility: visible;
+    color: white;
+    background-color: green;
+}
