@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 20;
+}
+
+.escenario{
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.escenario-1{
+    width: 100%;
+}
+
+.escenario-2{
+    width: 50%;
+}
+
+/* Unidad Fija px */
+.px{
+    background-color: green;
+    width: 200px;
+}
+
+/* Unidad Relativa el porcentaje en relacion a su elemento padre */
+.porcentaje{
+    background-color: red;
+    width: 50%;
+}
+
+/* Unidad relativa al ancho de la pantalla */
+.view{
+    background-color: yellow;
+    width: 50vw;
+}

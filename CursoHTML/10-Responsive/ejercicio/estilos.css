@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor{
+    display: flex;
+    gap: 0.5rem;
+}
+
+.barra-lateral{
+    background-color: rgb(10, 79, 82);
+    color: white;
+    min-height: 94vh;
+    padding: 1rem;
+}
+
+.seccion-principal{
+    background-color: rgb(7, 201, 191);
+    display: flex;
+    flex-grow: 1;
+    padding: 1rem;
+    width: 90vw;
+}
+
+@media (max-width: 640px){
+    .contenedor{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .barra-lateral{
+        min-height: 20vh;
+        display: flex;
+        gap: 0.5rem;
+    }
+
+    .seccion-principal{
+        min-height: 40vw;
+        width: 100%;
+    }
+}

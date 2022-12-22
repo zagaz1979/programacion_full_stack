@@ -1,0 +1,39 @@
+.contenedor{
+    background-color: yellow;
+    display: flex;
+    
+    /* 
+        Eje principal
+        center, start, end, space-between, space-around, space-evenly 
+    */
+    justify-content: space-evenly;
+
+    /* 
+        Eje secundario
+        baseline, center, stretch, end,   
+    */
+    align-items: center;
+
+    /* 
+        Hace que los elementos pasesn hacia abajo para mantener su 
+        anchura  
+    */
+    flex-wrap: wrap;
+
+    /*
+    flex-direction: column;
+    */
+    gap: 0.5rem;
+    min-height: 5rem;
+    padding: 0.5rem;
+}
+
+.item{
+    background-color: salmon;
+    padding: 0.25rem;
+    width: 10rem;
+}
+
+.item2{
+    align-self: stretch;
+}
