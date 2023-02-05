@@ -1,0 +1,43 @@
+@use "mixins";
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: azure;
+    min-height: 100vh;
+    padding-left: 0.5rem;
+    padding-top: 00.5rem;
+    width: 100%;
+}
+
+h1{
+    margin: 0;
+    @include mixins.formato-texto();
+}
+
+p{
+    @include mixins.formato-texto(orange);
+}
+
+.listado{
+    background-color: aquamarine;
+    padding: 0.5rem;
+    width: 10rem;
+
+    ul{
+        margin: 0 0.5rem;
+
+        li{
+            list-style: none;
+            &:hover{
+                color: white;
+                cursor: pointer;
+            }
+        }
+
+    }
+
+}
